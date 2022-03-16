@@ -2065,7 +2065,7 @@
  	 	 	 	 	"eng": "Disable Attack Timing Bar"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "공격 타이밍 바를 비활성화하면 추가적인 데미지가 부여되지 않습니다",
+ 	 	 	 	 	"trans": "공격 타이밍 바를 비활성화하면 추가 피해가 부여되지 않습니다",
  	 	 	 	 	"eng": "Disabling attack timing bar will not grant extra damage"
  	 	 	 	}
  	 	 	},
@@ -2648,7 +2648,7 @@
  	 	 	 	}
  	 	 	},
  	 	 	"areaEffect": {
- 	 	 	 	"trans": "[AoE] 범위 효과, 이 아이템의 효과는 아군에게도 적용됩니다..",
+ 	 	 	 	"trans": "[AoE] 범위 효과, 이 아이템의 효과는 아군에게도 적용됩니다.",
  	 	 	 	"eng": "[AOE] Area of Effect, the effect of this item will apply allies in combat with you."
  	 	 	},
  	 	 	"equip": {
@@ -3409,7 +3409,7 @@
  	 	 	 	"eng": "calibration"
  	 	 	},
  	 	 	"enemyGangsAndMark": {
- 	 	 	 	"trans": "적대적인 갱단들과 장비 마크에 대하여",
+ 	 	 	 	"trans": "적대 갱단들과 장비 마크에 대하여",
  	 	 	 	"eng": "Enemy Gangs and Equipment Marks"
  	 	 	}
  	 	},
@@ -3993,7 +3993,7 @@
  	 	 	 	"eng": "Animals Nemesis"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "애니멀즈 갱단의 적에게 더 많은 데미지를 줍니다",
+ 	 	 	 	"trans": "애니멀즈 갱단의 적에게 더 많은 피해를 줍니다",
  	 	 	 	"eng": "Increases damage to Enemies of Animals gang"
  	 	 	}
  	 	},
@@ -4003,7 +4003,7 @@
  	 	 	 	"eng": "Voodoo Nemesis"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "부두보이즈 갱단의 적에게 더 많은 데미지를 줍니다",
+ 	 	 	 	"trans": "부두보이즈 갱단의 적에게 더 많은 피해를 줍니다",
  	 	 	 	"eng": "Increases damage to Enemies of Voodoo Boys gang"
  	 	 	}
  	 	},
@@ -4013,7 +4013,7 @@
  	 	 	 	"eng": "Scavengers Nemesis"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "스캐빈저 갱단의 적에게 더 많은 데미지를 줍니다",
+ 	 	 	 	"trans": "스캐빈저 갱단의 적에게 더 많은 피해를 줍니다",
  	 	 	 	"eng": "Increases damage to Enemies of Scavengers gang"
  	 	 	}
  	 	},
@@ -4023,7 +4023,7 @@
  	 	 	 	"eng": "Lethal"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "스캐빈저 갱단의 적으로부터 더 많은 데미지를 받습니다",
+ 	 	 	 	"trans": "스캐빈저 갱단의 적으로부터 더 많은 피해를 받습니다",
  	 	 	 	"eng": "Enemies of Scavengers gang deals increased damage to you"
  	 	 	}
  	 	},
@@ -4033,7 +4033,7 @@
  	 	 	 	"eng": "Disruptor"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "애니멀즈 갱단의 적으로부터 더 많은 데미지를 받습니다",
+ 	 	 	 	"trans": "애니멀즈 갱단의 적으로부터 더 많은 피해를 받습니다",
  	 	 	 	"eng": "Enemies of Animals gang deals increased damage to you"
  	 	 	}
  	 	},
@@ -4043,7 +4043,7 @@
  	 	 	 	"eng": "Makeshift"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "부두보이즈 갱단의 적으로부터 더 많은 데미지를 받습니다",
+ 	 	 	 	"trans": "부두보이즈 갱단의 적으로부터 더 많은 피해를 받습니다",
  	 	 	 	"eng": "Enemies of Voodoo Boys gang deals increased damage to you"
  	 	 	}
  	 	}
@@ -5211,11 +5211,11 @@
  	 	"requirement": {
  	 	 	"damage": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "데미지 주기",
+ 	 	 	 	 	"trans": "피해 입히기",
  	 	 	 	 	"eng": "Deal damage"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "아무 적에게나 데미지를 주십시오",
+ 	 	 	 	 	"trans": "아무 적에게나 피해를 주십시오",
  	 	 	 	 	"eng": "Deal damage to any enemy"
  	 	 	 	}
  	 	 	},
@@ -5428,7 +5428,7 @@
  	 	 	"eng": "of Health"
  	 	},
  	 	"upgradeDamage": {
- 	 	 	"trans": "데미지의",
+ 	 	 	"trans": "피해의",
  	 	 	"eng": "of Damage"
  	 	},
  	 	"upgradeShield": {
@@ -5452,7 +5452,7 @@
  	 	 	"eng": "of Crit Chance"
  	 	},
  	 	"upgradeCriticalDamage": {
- 	 	 	"trans": "치명타 데미지의",
+ 	 	 	"trans": "치명타 피해의",
  	 	 	"eng": "of Crit Damage"
  	 	},
  	 	"upgradeEvade": {
@@ -5506,7 +5506,7 @@
  	 	 	 	"eng": "Lethal"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "애니멀즈 갱단의 적에게 더 많은 데미지를 줍니다. 스캐빈저 갱단의 적으로부터 더 많은 데미지를 받습니다.",
+ 	 	 	 	"trans": "애니멀즈 갱단의 적에게 더 많은 피해를 줍니다. 스캐빈저 갱단의 적으로부터 더 많은 피해를 받습니다.",
  	 	 	 	"eng": "deals increased damage to Animals gang. receives increased damage from Scavengers gang."
  	 	 	}
  	 	},
@@ -5516,7 +5516,7 @@
  	 	 	 	"eng": "Disruptor"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "부두보이즈 갱단의 적에게 더 많은 데미지를 줍니다. 애니멀즈 갱단의 적으로부터 더 많은 데미지를 받습니다.",
+ 	 	 	 	"trans": "부두보이즈 갱단의 적에게 더 많은 피해를 줍니다. 애니멀즈 갱단의 적으로부터 더 많은 피해를 받습니다.",
  	 	 	 	"eng": "deals increased damage to Voodoo Boys gang. receives increased damage from Animals gang."
  	 	 	}
  	 	},
@@ -5526,7 +5526,7 @@
  	 	 	 	"eng": "Makeshift"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "스캐빈저 갱단의 적에게 더 많은 데미지를 줍니다. 부두보이즈 갱단의 적으로부터 더 많은 데미지를 받습니다.",
+ 	 	 	 	"trans": "스캐빈저 갱단의 적에게 더 많은 피해를 줍니다. 부두보이즈 갱단의 적으로부터 더 많은 피해를 받습니다.",
  	 	 	 	"eng": "deals increased damage to Scavengers gang. receives increased damage from Voodoo Boys gang."
  	 	 	}
  	 	}
